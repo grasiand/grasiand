@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @grasiand
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-grasiand/grasiand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Merhaba, Ben @grasiand!
+👀 İlgimi çeken konular arasında programlama, özellikle de Python ile yazılım geliştirme yer alıyor.
+🌱 Şu anda öğrenmekte olduğum konular arasında web geliştirme, veri analizi ve makine öğrenmesi gibi konular bulunuyor.
+💞️ İşbirliği yapabileceğim projelerde yer almak için açığım.
+📫 Benimle iletişime geçmek için e-posta adresim: grasiandd@protonmail.com
